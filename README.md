@@ -1,2 +1,3 @@
-# Pride and Prejudice Analysis
-Textual analysis on Project Gutenberg's "Pride and Prejudice" by Jane Austen. 
+# Pride and Prejudice Textual
+Run `python3 final_analysis.py` to see output
+![](https://i.imgur.com/GF8V4Yj.png)
